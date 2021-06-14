@@ -4,7 +4,7 @@
 $.getScript('markUp.js', function() {});
 
 // Variable decleration and global selectors //
-const BASE_URL = "http://jservice.io/api/";
+const BASE_URL = "https://jservice.io/api/";
 const CAT_NUM = 6;
 const CAT_NUM_CLUES = 5;
 const CAT_COUNT = 100;
